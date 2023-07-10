@@ -1,0 +1,8 @@
+C:\Users\basal\OneDrive\Desktop\c# dersler\Registry_DegerEkleme\Registry_DegerEkleme\bin\Debug\Registry_DegerEkleme.exe.config
+C:\Users\basal\OneDrive\Desktop\c# dersler\Registry_DegerEkleme\Registry_DegerEkleme\bin\Debug\Registry_DegerEkleme.exe
+C:\Users\basal\OneDrive\Desktop\c# dersler\Registry_DegerEkleme\Registry_DegerEkleme\bin\Debug\Registry_DegerEkleme.pdb
+C:\Users\basal\OneDrive\Desktop\c# dersler\Registry_DegerEkleme\Registry_DegerEkleme\obj\Debug\Registry_DegerEkleme.csproj.AssemblyReference.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\Registry_DegerEkleme\Registry_DegerEkleme\obj\Debug\Registry_DegerEkleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\Registry_DegerEkleme\Registry_DegerEkleme\obj\Debug\Registry_DegerEkleme.csproj.CoreCompileInputs.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\Registry_DegerEkleme\Registry_DegerEkleme\obj\Debug\Registry_DegerEkleme.exe
+C:\Users\basal\OneDrive\Desktop\c# dersler\Registry_DegerEkleme\Registry_DegerEkleme\obj\Debug\Registry_DegerEkleme.pdb
